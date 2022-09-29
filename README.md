@@ -1,2 +1,8 @@
 # My Favorite Hobby: Vinyl Collecting
-
+Welcome to my first website, created for my AP Comp Sci class! I've decided to dedicate my first ever website to something I enjoy the most, collecting vinyl records.
+## What are vinyl records?
+Vinyl records are round plastic discs that are used for listening to music. They were created for the intent of listening to music and use analog signals to display their sound. While streaming services are now the main sources of music listening, records are still popular today. Basically, the sound waves of a song is pressed onto a plastic disc, which allows the record to play, through extremely thin grooves. 
+### Why do I enjoy collecting?
+Although I still stream music on streaming platforms and continue to pay my monthly subscription, I enjoy the art of collecting album artwork as well as having different colors of my favorite albums in a physical form. Traditionally, vinyl records have a black color, but they have started to be released in many different colors, even with certain patterns and designs that are used to form the record. Additionally, listening to music on vinyl is one of my favorite ways to start off my day, usually on the weekends. When I get home, I always put a record on my turntable and sometimes do my homework with the music in the background.
+#### Where can you buy records?
+Of course, the easiest way to purchase records is in an indie record store, local stores around your community. Fortunately, I live in an area where record stores are extremely common and buying records in stores is actually one of the experiences that makes collecting even more fun. However, for those that don't live nearby record stores or prefer music genres that aren't sold in their local record stores, online websites are always an option. 
